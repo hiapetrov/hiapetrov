@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Alexander 
 - 👀 I’m a Junior Developer and I'm interested in Web Development, Cross-platform Software engineering and Machine Learning
 - 🌱 I’m currently learning Flutter as well as improving my skills on Node.js, React.js and MongoDB
-- 💞️ I’m looking to collaborate on innovative starup projects involving AIs
+- 💞️ I’m looking to collaborate on innovative starup projects.
 - 📫 How to reach me hi.apetrov@gmail.com
 
 <!---
