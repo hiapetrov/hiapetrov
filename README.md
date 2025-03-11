@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m Alexander 
-- 👀 I'm interested in Web Development, Cross-platform Software engineering and Machine Learning
-- 🌱 I’m currently improving my skills on Node.js, React.js and MongoDB
+- 👀 I'm interested in NNs, LLMs, AI solutions, Web Development, Cross-platform Software engineering and Machine Learning
+- 🌱 I’m currently Working Extensively with the adoption of LLMs, and emerging Ai solutions
 - 💞️ I’m looking to collaborate on innovative starup projects.
 - 📫 How to reach me hi.apetrov@gmail.com
 
